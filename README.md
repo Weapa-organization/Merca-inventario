@@ -16,6 +16,10 @@ Aplicación Android hecha con Python y Flet. Todas las listas, sus elementos, el
 - Reordenación mediante el asa situada a la izquierda de cada elemento.
 - Funcionamiento completamente local, sin servidor.
 
+## Previsualizacion
+
+![previsuial](doc/previsualizado_1.png)
+
 ## Ejecutar en el ordenador
 
 ```bash
