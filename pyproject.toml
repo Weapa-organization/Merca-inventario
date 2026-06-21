@@ -1,0 +1,18 @@
+[project]
+name = "merca_inventario"
+version = "1.2.0"
+description = "Merca-inventario: listas de compra con histórico local"
+requires-python = ">=3.10"
+dependencies = [
+    "flet==0.85.3",
+]
+
+[tool.flet]
+product = "Merca-inventario"
+org = "com.jjbroza"
+bundle_id = "com.jjbroza.merca_inventario"
+build_number = 3
+
+[tool.flet.app]
+path = "src"
+module = "main"
